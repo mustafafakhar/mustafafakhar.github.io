@@ -6,6 +6,7 @@ I'm a fresh sustainability graduate from Heriot Watt university, but my love and
 
 ## Education
 MSc Global Sustainability Engineering                                       January 2023 to May 2024
+
 **Key Modules**: Sustainable Processing, Process Engineering, Green and Sustainable Logistics, Renewable Energy Technologies. 
 
 # Projects
