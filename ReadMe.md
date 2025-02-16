@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="/img/IMG_2110.jpg" alt="Mustafa Fakhar" align="right" width="200" style="border-radius: 50%; margin-left: 20px;" />
+<img src="/img/IMG_2110.jpg" alt="Mustafa Fakhar" align="right" width="250" style="border-radius: 40%; margin-left: 30px;" />
 I'm a recent sustainability graduate, looking to explore the <br>professional fields of data analysis and data science, <br>intending to contribute to the ongoing climate problems <br>and making world a more sustainable place with the help of<br>my skills. I am a very big data enthusiast, and I believe data<br>can solve a lot of our problems. Playing around with data and<br>making worthwhile progress can resolve many issues.
 
 
